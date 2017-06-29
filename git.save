@@ -1,3 +1,0 @@
-current_time=`date`
-git commit -m "Snapshot @ $current_time"
-git push origin master
